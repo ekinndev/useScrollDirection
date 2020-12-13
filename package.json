@@ -1,0 +1,24 @@
+{
+  "name": "scroll-direction-next-react",
+  "version": "0.0.1",
+  "description": "Get user's scroll direction.",
+  "main": "useScrollDirection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekinndev/useScrollDirection.git"
+  },
+  "keywords": [
+    "Scroll",
+    "next",
+    "react"
+  ],
+  "author": "ekinndev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ekinndev/useScrollDirection/issues"
+  },
+  "homepage": "https://github.com/ekinndev/useScrollDirection#readme"
+}
