@@ -1,3 +1,3 @@
 declare module 'scroll-direction-next-react';
 
-export function useScrollDirection(debounceTime: number): 'up' | 'down';
+export default function useScrollDirection(debounceTime: number = 100): 'up' | 'down';
