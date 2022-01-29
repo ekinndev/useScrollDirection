@@ -52,6 +52,8 @@ function useScrollDirection(time = 100) {
     return () => window.removeEventListener('scroll', debouncedHandleScroll);
   }, []);
 
+  if (scrollDirection === undefined) return;
+
   return scrollDirection;
 }
 
