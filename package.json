@@ -1,6 +1,6 @@
 {
   "name": "scroll-direction-next-react",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Get user's scroll direction.",
   "main": "index.js",
   "scripts": {

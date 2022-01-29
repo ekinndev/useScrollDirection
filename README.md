@@ -9,6 +9,8 @@ This hook is totally for you.
 ## Usage
     import useScrollDirection from 'scroll-direction-next-react'
 
-    const scrollDirection = useScrollDirection()
+    const scrollDirection = useScrollDirection(100)
+
+    You need to specify debounce time in ms default: 100ms
 ## LICENSE
 MIT
